@@ -12,7 +12,7 @@ Percent change in volume: The percentage change in trading volume of a stock rel
 These calculations provide valuable insights into the volatility and trading activity of each stock over time.
 
 Guidance Video:
-For a comprehensive guide on how to use and understand the stock market dashboard, a helpful YouTube video is available here. This video serves as a tutorial, offering insights into the project's functionalities and how to interpret the data visualizations.
+For a comprehensive guide on how to use and understand the stock market dashboard, a helpful YouTube video is available here - https://www.youtube.com/watch?v=_RT32my9PRQ. This video serves as a tutorial, offering insights into the project's functionalities and how to interpret the data visualizations.
 
 Industry Groupings:
 In addition to analyzing individual stock performance, this project also includes an industry grouping feature. The companies are grouped into different industries, including Electronic Technology, Technology Services, Retail, and Consumer Goods. This grouping provides a broader perspective on stock market trends and allows for more extensive analysis of sectoral performance.
@@ -20,6 +20,6 @@ In addition to analyzing individual stock performance, this project also include
 While industry grouping could also be done in Tableau, it was decided to implement it within the Python code for ease of use and to leverage a larger dataset.
 
 Dataset Used:
-The project utilizes the Stock Market Dataset available on Kaggle. This dataset provides historical stock market data for analysis and visualization.
+The project utilizes the Stock Market Dataset available on Kaggle - https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset. This dataset provides historical stock market data for analysis and visualization.
 
 Feel free to use and modify this extended description as needed for your repository.
